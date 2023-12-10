@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Bayya</h1>
 <h3 align="center">Hello! I am a highly driven student of data science who has a great love for deriving important insights from data. In the fields of data science and data engineering, I am actively looking for internships and employment possibilities. I am committed to using data-driven methods to address real-world issues. I have a strong background in Python and a keen analytical mentality. My background in data science is extensive, and I've taken courses in machine learning, statistics, and data visualization. I am constantly keen to increase my data science knowledge and proficiency since I am a proactive learner. Working with experts in the field and adding to initiatives that have a real impact excites me. Let's talk and discuss how I may benefit your data-driven team.</h3>
 
-- 🔭 I’m currently working on **Optimization of Agriculture production**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
